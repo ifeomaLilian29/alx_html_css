@@ -14,13 +14,25 @@ main{
 article {
   flex: 2;
   overflow-y: auto
+   color: #ff69b4;
+  background-color: #87ceeb; 
  
 }
 
 aside {
   flex: 1;
   overflow-y: auto;
+  color: #ff69b4;
+  background-color: #87ceeb; 
  
+}
+.logo {
+  font-size: 4rem;
+  color: gold;
+  margin-right: 3rem;
+
+  /* Border styling goes here */
+  border: 3px solid black;
 }
 
     
